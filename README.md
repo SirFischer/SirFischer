@@ -1,6 +1,9 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirfischer&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | ![Most used language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sirfischer&layout=compact&theme=buefy&hide_border=true)
-
-
+[<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sirfischer&count_private=true&show_icons=true&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirfischer&layout=compact&theme=buefy&hide_border=true&layout=compact" />
+</a>
 
 <!--
 **SirFischer/SirFischer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
