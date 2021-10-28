@@ -1,6 +1,4 @@
-### Hi there 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirfischer&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) ![Most used language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sirfischer&layout=compact&theme=buefy&hide_border=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sirfischer&count_private=true&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | ![Most used language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sirfischer&layout=compact&theme=buefy&hide_border=true)
 
 
 
