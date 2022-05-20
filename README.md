@@ -5,6 +5,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirfischer&layout=compact&theme=dark&hide_border=true" />
 </a>
 
+[![wakatime](https://wakatime.com/badge/user/c9da7794-f53e-4d0b-9bda-c8c21e309587.svg)](https://wakatime.com/@c9da7794-f53e-4d0b-9bda-c8c21e309587)
+
 <!--
 **SirFischer/SirFischer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
